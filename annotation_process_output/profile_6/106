@@ -1,0 +1,177 @@
+{
+  "id": 106,
+  "created_username": " fernando.castell.minon@alumnos.upm.es, 12",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 12,
+    "first_name": "",
+    "last_name": "",
+    "email": "fernando.castell.minon@alumnos.upm.es"
+  },
+  "task": {
+    "id": 221,
+    "data": {
+      "video_url": "/data/local-files/?d=videos/Stealing091_x264.mp4",
+      "image_url": "/data/local-files/?d=images/Stealing091_x264.png"
+    },
+    "meta": {},
+    "created_at": "2024-01-05T10:43:44.921476Z",
+    "updated_at": "2024-01-18T08:22:27.714099Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 9,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_length": 20.130998,
+      "value": {
+        "start": 7.21643584028394,
+        "end": 12.6109002555457,
+        "channel": 0,
+        "labels": [
+          "Class 1"
+        ]
+      },
+      "id": "slXpx",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 20.130998,
+      "value": {
+        "start": 7.21643584028394,
+        "end": 12.6109002555457,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "slXpx",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 20.130998,
+      "value": {
+        "start": 0.035724929902395744,
+        "end": 7.216435840283941,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "X-6CQ",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 20.130998,
+      "value": {
+        "start": 0.035724929902395744,
+        "end": 7.216435840283941,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "X-6CQ",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 20.130998,
+      "value": {
+        "start": 12.610900255545697,
+        "end": 15.593931902395743,
+        "channel": 0,
+        "labels": [
+          "Class 2"
+        ]
+      },
+      "id": "GCwb9",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 20.130998,
+      "value": {
+        "start": 12.610900255545697,
+        "end": 15.593931902395743,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "GCwb9",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 20.130998,
+      "value": {
+        "start": 15.629656832298139,
+        "end": 20.130998,
+        "channel": 0,
+        "labels": [
+          "Class 3"
+        ]
+      },
+      "id": "EYvEL",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 20.130998,
+      "value": {
+        "start": 15.629656832298139,
+        "end": 20.130998,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "EYvEL",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-01-31T18:48:07.638819Z",
+  "updated_at": "2024-01-31T18:48:07.638849Z",
+  "draft_created_at": "2024-01-31T18:46:45.407327Z",
+  "lead_time": 148.214,
+  "import_id": null,
+  "last_action": null,
+  "project": 1,
+  "updated_by": 12,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

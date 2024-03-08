@@ -1,0 +1,225 @@
+{
+  "id": 152,
+  "created_username": " lorena.quesada.ilmert@alumnos.upm.es, 15",
+  "created_ago": "14\u00a0minutes",
+  "completed_by": {
+    "id": 15,
+    "first_name": "",
+    "last_name": "",
+    "email": "lorena.quesada.ilmert@alumnos.upm.es"
+  },
+  "task": {
+    "id": 215,
+    "data": {
+      "video_url": "/data/local-files/?d=videos/Assault052_x264.mp4",
+      "image_url": "/data/local-files/?d=images/Assault052_x264.png"
+    },
+    "meta": {},
+    "created_at": "2024-01-05T10:43:44.691335Z",
+    "updated_at": "2024-02-12T16:48:28.099023Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 3,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 15,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_length": 26.331202,
+      "value": {
+        "start": 0,
+        "end": 6.533333333333333,
+        "channel": 0,
+        "labels": [
+          "Class 2"
+        ]
+      },
+      "id": "1",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 26.331202,
+      "value": {
+        "start": 0,
+        "end": 6.533333333333333,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "1",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 26.331202,
+      "value": {
+        "start": 6.533333333333332,
+        "end": 16.87171978041543,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "2",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 26.331202,
+      "value": {
+        "start": 6.533333333333332,
+        "end": 16.87171978041543,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "2",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 26.331202,
+      "value": {
+        "start": 18.215580592899407,
+        "end": 25.370127921499012,
+        "channel": 0,
+        "labels": [
+          "Class 2"
+        ]
+      },
+      "id": "3",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 26.331202,
+      "value": {
+        "start": 18.215580592899407,
+        "end": 25.370127921499012,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "3",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 26.331202,
+      "value": {
+        "start": 25.94660985877712,
+        "end": 26.3,
+        "channel": 0,
+        "labels": [
+          "Class 1"
+        ]
+      },
+      "id": "4",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 26.331202,
+      "value": {
+        "start": 25.94660985877712,
+        "end": 26.3,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "4",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 26.331202,
+      "value": {
+        "start": 16.87697220178042,
+        "end": 18.166185356083087,
+        "channel": 0,
+        "labels": [
+          "Class 3"
+        ]
+      },
+      "id": "y-yLu",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 26.331202,
+      "value": {
+        "start": 16.87697220178042,
+        "end": 18.166185356083087,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "y-yLu",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 26.331202,
+      "value": {
+        "start": 25.365497661642728,
+        "end": 26.222430271110184,
+        "channel": 0,
+        "labels": [
+          "Class 1"
+        ]
+      },
+      "id": "zvO82",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-02-12T16:34:23.993502Z",
+  "updated_at": "2024-02-12T16:48:28.197852Z",
+  "draft_created_at": "2024-02-12T16:33:13.082556Z",
+  "lead_time": 333.341,
+  "import_id": null,
+  "last_action": null,
+  "project": 1,
+  "updated_by": 16,
+  "parent_prediction": 183,
+  "parent_annotation": null,
+  "last_created_by": null
+}

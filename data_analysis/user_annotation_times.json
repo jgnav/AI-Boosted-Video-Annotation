@@ -1,0 +1,290 @@
+{
+  " lgarcia@sigmacognition.com, 5": {
+    "with_predictions": {
+      "Assault018_x264": 200.744,
+      "Fighting023_x264": 27.479,
+      "RoadAccidents069_x264": 524.947,
+      "Shoplifting019_x264": 70.307,
+      "Vandalism012_x264": 220.632
+    },
+    "without_predictions": {
+      "Burglary036_x264": 153.792,
+      "RoadAccidents052_x264": 177.824,
+      "Robbery068_x264": 159.627,
+      "Stealing029_x264": 98.666,
+      "Vandalism014_x264": 158.03
+    }
+  },
+  " jcorton@sigmacognition.ai, 4": {
+    "with_predictions": {
+      "Assault031_x264": 109.296,
+      "Fighting033_x264": 53.132,
+      "Robbery132_x264": 46.704,
+      "Stealing095_x264": 173.351,
+      "Vandalism027_x264": 230.655
+    },
+    "without_predictions": {
+      "Arson049_x264": 126.356,
+      "Explosion005_x264": 141.297,
+      "RoadAccidents144_x264": 140.212,
+      "Robbery134_x264": 100.99,
+      "Vandalism017_x264": 298.639
+    }
+  },
+  " jgavilanes@sigma-ai.com, 9": {
+    "with_predictions": {
+      "Burglary036_x264": 641.5060000000001,
+      "RoadAccidents052_x264": 346.889,
+      "Robbery068_x264": 481.283,
+      "Stealing029_x264": 320.95,
+      "Vandalism014_x264": 146.523
+    },
+    "without_predictions": {
+      "Assault018_x264": 472.89,
+      "Fighting023_x264": 568.016,
+      "RoadAccidents069_x264": 232.282,
+      "Shoplifting019_x264": 202.468,
+      "Vandalism012_x264": 249.989
+    }
+  },
+  " amora@sigmacognition.ai, 10": {
+    "with_predictions": {
+      "Arson049_x264": 268.558,
+      "Explosion005_x264": 324.258,
+      "RoadAccidents144_x264": 306.57,
+      "Robbery134_x264": 120.923,
+      "Vandalism017_x264": 328.521
+    },
+    "without_predictions": {
+      "Assault031_x264": 471.62,
+      "Fighting033_x264": 443.382,
+      "Robbery132_x264": 253.534,
+      "Stealing095_x264": 170.322,
+      "Vandalism027_x264": 228.496
+    }
+  },
+  " esancho@sigmacognition.ai, 11": {
+    "with_predictions": {
+      "Assault018_x264": 324.191,
+      "Fighting023_x264": 385.82,
+      "RoadAccidents069_x264": 146.956,
+      "Shoplifting019_x264": 144.469,
+      "Vandalism012_x264": 255.998
+    },
+    "without_predictions": {
+      "Burglary036_x264": 249.53,
+      "RoadAccidents052_x264": 848.311,
+      "Robbery068_x264": 220.231,
+      "Stealing029_x264": 435.07,
+      "Vandalism014_x264": 256.53200000000004
+    }
+  },
+  " cserrano@sigmacognition.ai, 12": {
+    "with_predictions": {
+      "Arson049_x264": 401.97400000000005,
+      "Explosion005_x264": 284.375,
+      "RoadAccidents144_x264": 204.97,
+      "Robbery134_x264": 139.54,
+      "Vandalism017_x264": 559.368
+    },
+    "without_predictions": {
+      "Assault031_x264": 618.008,
+      "Fighting033_x264": 272.171,
+      "Robbery132_x264": 288.255,
+      "Stealing095_x264": 259.362,
+      "Vandalism027_x264": 204.627
+    }
+  },
+  " mateo.camara@upm.es, 5": {
+    "with_predictions": {
+      "Assault039_x264": 86.527,
+      "Burglary030_x264": 187.846,
+      "Explosion048_x264": 25.629,
+      "Robbery069_x264": 148.612,
+      "Vandalism032_x264": 82.452
+    },
+    "without_predictions": {
+      "Arson009_x264": 322.827,
+      "Assault052_x264": 105.496,
+      "Explosion019_x264": 74.914,
+      "RoadAccidents047_x264": 118.143,
+      "Stealing091_x264": 141.93
+    }
+  },
+  " virginia.yague@upm.es, 6": {
+    "with_predictions": {
+      "Assault039_x264": 85.863,
+      "Burglary030_x264": 183.028,
+      "Explosion048_x264": 40.301,
+      "Robbery069_x264": 86.182,
+      "Vandalism032_x264": 99.057
+    },
+    "without_predictions": {
+      "Arson009_x264": 520.1759999999999,
+      "Assault052_x264": 199.673,
+      "Explosion019_x264": 187.147,
+      "RoadAccidents047_x264": 146.74,
+      "Stealing091_x264": 74.411
+    }
+  },
+  " fernando.marcos.macias@alumnos.upm.es, 8": {
+    "with_predictions": {
+      "Assault039_x264": 134.229,
+      "Burglary030_x264": 441.103,
+      "Explosion048_x264": 113.079,
+      "Robbery069_x264": 207.017,
+      "Vandalism032_x264": 132.414
+    },
+    "without_predictions": {
+      "Arson009_x264": 310.545,
+      "Assault052_x264": 246.303,
+      "Explosion019_x264": 229.586,
+      "RoadAccidents047_x264": 222.662,
+      "Stealing091_x264": 191.15
+    }
+  },
+  " alejandro.almodovar@upm.es, 9": {
+    "with_predictions": {
+      "Burglary036_x264": 136.847,
+      "RoadAccidents052_x264": 137.716,
+      "Robbery068_x264": 118.661,
+      "Stealing029_x264": 155.436,
+      "Vandalism014_x264": 160.05
+    },
+    "without_predictions": {
+      "Assault018_x264": 327.345,
+      "Fighting023_x264": 225.205,
+      "RoadAccidents069_x264": 136.562,
+      "Shoplifting019_x264": 200.136,
+      "Vandalism012_x264": 188.651
+    }
+  },
+  " m.dllin@alumnos.upm.es, 10": {
+    "with_predictions": {
+      "Assault031_x264": 121.378,
+      "Fighting033_x264": 255.504,
+      "Robbery132_x264": 49.856,
+      "Stealing095_x264": 59.32,
+      "Vandalism027_x264": 91.53
+    },
+    "without_predictions": {
+      "Arson049_x264": 325.482,
+      "Explosion005_x264": 225.545,
+      "RoadAccidents144_x264": 319.4,
+      "Robbery134_x264": 96.451,
+      "Vandalism017_x264": 302.037
+    }
+  },
+  " david.fgarcia@alumnos.upm.es, 11": {
+    "with_predictions": {
+      "Burglary036_x264": 229.30599999999998,
+      "RoadAccidents052_x264": 121.262,
+      "Robbery068_x264": 158.678,
+      "Stealing029_x264": 172.937,
+      "Vandalism014_x264": 96.262
+    },
+    "without_predictions": {
+      "Assault018_x264": 167.612,
+      "Fighting023_x264": 311.975,
+      "RoadAccidents069_x264": 98.146,
+      "Shoplifting019_x264": 225.474,
+      "Vandalism012_x264": 294.965
+    }
+  },
+  " fernando.castell.minon@alumnos.upm.es, 12": {
+    "with_predictions": {
+      "Arson009_x264": 380.42,
+      "Assault052_x264": 220.493,
+      "Explosion019_x264": 90.242,
+      "RoadAccidents047_x264": 75.735,
+      "Stealing091_x264": 148.214
+    },
+    "without_predictions": {
+      "Assault039_x264": 215.605,
+      "Burglary030_x264": 181.323,
+      "Explosion048_x264": 156.378,
+      "Robbery069_x264": 148.977,
+      "Vandalism032_x264": 107.649
+    }
+  },
+  " jl.blanco@upm.es, 4": {
+    "with_predictions": {
+      "Arson049_x264": 77.644,
+      "Explosion005_x264": 44.758,
+      "RoadAccidents144_x264": 154.682,
+      "Robbery134_x264": 59.697,
+      "Vandalism017_x264": 187.995
+    },
+    "without_predictions": {
+      "Assault031_x264": 305.765,
+      "Fighting033_x264": 187.767,
+      "Robbery132_x264": 116.229,
+      "Stealing095_x264": 122.676,
+      "Vandalism027_x264": 199.014
+    }
+  },
+  " imanol.tinchaurza@alumnos.upm.es, 13": {
+    "with_predictions": {
+      "Assault018_x264": 134.286,
+      "Fighting023_x264": 91.295,
+      "RoadAccidents069_x264": 76.089,
+      "Shoplifting019_x264": 85.702,
+      "Vandalism012_x264": 91.329
+    },
+    "without_predictions": {
+      "Burglary036_x264": 97.393,
+      "RoadAccidents052_x264": 74.978,
+      "Robbery068_x264": 74.202,
+      "Stealing029_x264": 106.479,
+      "Vandalism014_x264": 69.686
+    }
+  },
+  " fruanks@gmail.com, 14": {
+    "with_predictions": {
+      "Arson009_x264": 327.727,
+      "Assault052_x264": 166.348,
+      "Explosion019_x264": 93.707,
+      "RoadAccidents047_x264": 87.985,
+      "Stealing091_x264": 118.272
+    },
+    "without_predictions": {
+      "Assault039_x264": 161.934,
+      "Burglary030_x264": 72.701,
+      "Explosion048_x264": 163.394,
+      "Robbery069_x264": 238.186,
+      "Vandalism032_x264": 87.687
+    }
+  },
+  " juan.gutierrez@alumnos.upm.es, 1": {
+    "with_predictions": {
+      "Assault031_x264": 178.694,
+      "Fighting033_x264": 166.357,
+      "Robbery132_x264": 84.958,
+      "Stealing095_x264": 123.362,
+      "Vandalism027_x264": 54.293
+    },
+    "without_predictions": {
+      "Arson049_x264": 168.634,
+      "Explosion005_x264": 256.769,
+      "RoadAccidents144_x264": 194.337,
+      "Robbery134_x264": 109.221,
+      "Vandalism017_x264": 211.021
+    }
+  },
+  " lorena.quesada.ilmert@alumnos.upm.es, 15": {
+    "with_predictions": {
+      "Arson009_x264": 646.3520000000001,
+      "Assault052_x264": 333.341,
+      "Explosion019_x264": 116.758,
+      "RoadAccidents047_x264": 113.929,
+      "Stealing091_x264": 83.30099999999999
+    },
+    "without_predictions": {
+      "Assault039_x264": 572.389,
+      "Burglary030_x264": 550.389,
+      "Explosion048_x264": 251.445,
+      "Robbery069_x264": 269.966,
+      "Vandalism032_x264": 225.776
+    }
+  }
+}

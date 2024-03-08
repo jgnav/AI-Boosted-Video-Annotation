@@ -1,0 +1,128 @@
+{
+  "id": 111,
+  "created_username": " jl.blanco@upm.es, 4",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 4,
+    "first_name": "",
+    "last_name": "",
+    "email": "jl.blanco@upm.es"
+  },
+  "task": {
+    "id": 4,
+    "data": {
+      "video_url": "/data/local-files/?d=videos/Fighting033_x264.mp4"
+    },
+    "meta": {},
+    "created_at": "2024-01-04T10:55:20.949045Z",
+    "updated_at": "2024-01-04T10:55:20.949080Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 4,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 6,
+    "updated_by": null,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_length": 36.866009,
+      "value": {
+        "start": 26.765732561643834,
+        "end": 36.866009,
+        "channel": 0,
+        "labels": [
+          "Class 4"
+        ]
+      },
+      "id": "r03Rh",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 36.866009,
+      "value": {
+        "start": 0,
+        "end": 0.6546475469304921,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "MqJg-",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 36.866009,
+      "value": {
+        "start": 0.5985349000507356,
+        "end": 8.641347619482495,
+        "channel": 0,
+        "labels": [
+          "Class 1"
+        ]
+      },
+      "id": "aQVVg",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 36.866009,
+      "value": {
+        "start": 8.622643403855909,
+        "end": 19.88258121106037,
+        "channel": 0,
+        "labels": [
+          "Class 2"
+        ]
+      },
+      "id": "Mm_uS",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 36.866009,
+      "value": {
+        "start": 19.845172779807204,
+        "end": 26.803140992897006,
+        "channel": 0,
+        "labels": [
+          "Class 3"
+        ]
+      },
+      "id": "ACqeS",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-02-05T07:03:27.861137Z",
+  "updated_at": "2024-02-05T07:03:27.861168Z",
+  "draft_created_at": "2024-02-05T07:01:27.213070Z",
+  "lead_time": 187.767,
+  "import_id": null,
+  "last_action": null,
+  "project": 6,
+  "updated_by": 4,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

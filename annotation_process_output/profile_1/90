@@ -1,0 +1,113 @@
+{
+  "id": 90,
+  "created_username": " amora@sigmacognition.ai, 10",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 10,
+    "first_name": "",
+    "last_name": "",
+    "email": "amora@sigmacognition.ai"
+  },
+  "task": {
+    "id": 447,
+    "data": {
+      "video_url": "/data/local-files/?d=videos/Robbery134_x264.mp4",
+      "image_url": "/data/local-files/?d=images/Robbery134_x264.png"
+    },
+    "meta": {},
+    "created_at": "2023-12-20T18:20:08.116910Z",
+    "updated_at": "2023-12-20T18:20:08.121712Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 7,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 6,
+    "updated_by": 3,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_length": 21.007007,
+      "value": {
+        "start": 0,
+        "end": 11.092802311605318,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "1",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 21.007007,
+      "value": {
+        "start": 0,
+        "end": 11.092802311605318,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "1",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 21.007007,
+      "value": {
+        "start": 11.092802311605318,
+        "end": 21,
+        "channel": 0,
+        "labels": [
+          "Class 1"
+        ]
+      },
+      "id": "2",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 21.007007,
+      "value": {
+        "start": 11.092802311605318,
+        "end": 21,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "2",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "prediction-changed"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2023-12-22T11:50:28.806507Z",
+  "updated_at": "2023-12-22T11:50:28.806521Z",
+  "draft_created_at": "2023-12-22T11:49:13.076513Z",
+  "lead_time": 120.923,
+  "import_id": null,
+  "last_action": null,
+  "project": 6,
+  "updated_by": 10,
+  "parent_prediction": 298,
+  "parent_annotation": null,
+  "last_created_by": null
+}

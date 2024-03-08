@@ -1,0 +1,96 @@
+{
+  "id": 113,
+  "created_username": " jl.blanco@upm.es, 4",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 4,
+    "first_name": "",
+    "last_name": "",
+    "email": "jl.blanco@upm.es"
+  },
+  "task": {
+    "id": 6,
+    "data": {
+      "video_url": "/data/local-files/?d=videos/Robbery132_x264.mp4"
+    },
+    "meta": {},
+    "created_at": "2024-01-04T10:55:21.025250Z",
+    "updated_at": "2024-01-04T10:55:21.025281Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 6,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 6,
+    "updated_by": null,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_length": 22.095011,
+      "value": {
+        "start": 0,
+        "end": 5.784386441400304,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "pkims",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 22.095011,
+      "value": {
+        "start": 5.77317639015728,
+        "end": 16.333044661085747,
+        "channel": 0,
+        "labels": [
+          "Class 1"
+        ]
+      },
+      "id": "00m-R",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 22.095011,
+      "value": {
+        "start": 16.321834609842718,
+        "end": 22.095011,
+        "channel": 0,
+        "labels": [
+          "Class 2"
+        ]
+      },
+      "id": "w9nmE",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-02-05T07:08:05.993432Z",
+  "updated_at": "2024-02-05T07:08:05.993491Z",
+  "draft_created_at": "2024-02-05T07:06:56.380383Z",
+  "lead_time": 116.229,
+  "import_id": null,
+  "last_action": null,
+  "project": 6,
+  "updated_by": 4,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

@@ -1,0 +1,176 @@
+{
+  "id": 30,
+  "created_username": " virginia.yague@upm.es, 6",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 6,
+    "first_name": "",
+    "last_name": "",
+    "email": "virginia.yague@upm.es"
+  },
+  "task": {
+    "id": 225,
+    "data": {
+      "video_url": "/data/local-files/?d=videos/Assault052_x264.mp4"
+    },
+    "meta": {},
+    "created_at": "2024-01-05T10:43:50.788278Z",
+    "updated_at": "2024-01-11T13:31:40.530451Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 3,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_length": 26.331202,
+      "value": {
+        "start": 0.04007793302891933,
+        "end": 2.257723560629122,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "qjH4M",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 26.331202,
+      "value": {
+        "start": 0.04007793302891933,
+        "end": 2.257723560629122,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "qjH4M",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 26.331202,
+      "value": {
+        "start": 2.257723560629122,
+        "end": 6.626218260781328,
+        "channel": 0,
+        "labels": [
+          "Class 1"
+        ]
+      },
+      "id": "cakNh",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 26.331202,
+      "value": {
+        "start": 2.257723560629122,
+        "end": 6.626218260781328,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "cakNh",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 26.331202,
+      "value": {
+        "start": 6.62621826078133,
+        "end": 18.75647265753425,
+        "channel": 0,
+        "labels": [
+          "Class 2"
+        ]
+      },
+      "id": "EqEQV",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 26.331202,
+      "value": {
+        "start": 6.62621826078133,
+        "end": 18.75647265753425,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "EqEQV",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 26.331202,
+      "value": {
+        "start": 18.796550590563168,
+        "end": 26.331202,
+        "channel": 0,
+        "labels": [
+          "Class 2"
+        ]
+      },
+      "id": "N3-DR",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 26.331202,
+      "value": {
+        "start": 18.796550590563168,
+        "end": 26.331202,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "N3-DR",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-01-15T15:51:21.846480Z",
+  "updated_at": "2024-01-15T15:51:21.846515Z",
+  "draft_created_at": "2024-01-15T15:48:37.595235Z",
+  "lead_time": 199.673,
+  "import_id": null,
+  "last_action": null,
+  "project": 2,
+  "updated_by": 6,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

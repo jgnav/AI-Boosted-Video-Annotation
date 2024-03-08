@@ -1,0 +1,76 @@
+{
+  "data": {
+    "video_url": "/data/local-files/?d=videos/Vandalism012_x264.mp4",
+    "image_url": "/data/local-files/?d=images/Vandalism012_x264.png"
+  },
+  "predictions": [
+    {
+      "result": [
+        {
+          "original_length": 28.166666666666668,
+          "value": {
+            "start": 0.0,
+            "end": 23.466666666666665,
+            "channel": 0,
+            "labels": [
+              "Class 0"
+            ]
+          },
+          "id": "1",
+          "from_name": "Classes",
+          "to_name": "audio",
+          "type": "labels",
+          "origin": "manual"
+        },
+        {
+          "original_length": 23.466666666666665,
+          "value": {
+            "start": 0.0,
+            "end": 23.466666666666665,
+            "channel": 0,
+            "choices": [
+              "Normal Event"
+            ]
+          },
+          "id": "1",
+          "from_name": "Anomaly checkbox",
+          "to_name": "audio",
+          "type": "choices",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_length": 4.700000000000003,
+          "value": {
+            "start": 23.466666666666665,
+            "end": 28.166666666666668,
+            "channel": 0,
+            "labels": [
+              "Class 1"
+            ]
+          },
+          "id": "2",
+          "from_name": "Classes",
+          "to_name": "audio",
+          "type": "labels",
+          "origin": "manual"
+        },
+        {
+          "original_length": 4.700000000000003,
+          "value": {
+            "start": 23.466666666666665,
+            "end": 28.166666666666668,
+            "channel": 0,
+            "choices": [
+              "Normal Event"
+            ]
+          },
+          "id": "2",
+          "from_name": "Anomaly checkbox",
+          "to_name": "audio",
+          "type": "choices",
+          "origin": "prediction-changed"
+        }
+      ]
+    }
+  ]
+}

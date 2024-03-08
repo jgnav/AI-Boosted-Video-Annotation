@@ -1,0 +1,177 @@
+{
+  "id": 99,
+  "created_username": " fernando.castell.minon@alumnos.upm.es, 12",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 12,
+    "first_name": "",
+    "last_name": "",
+    "email": "fernando.castell.minon@alumnos.upm.es"
+  },
+  "task": {
+    "id": 215,
+    "data": {
+      "video_url": "/data/local-files/?d=videos/Assault052_x264.mp4",
+      "image_url": "/data/local-files/?d=images/Assault052_x264.png"
+    },
+    "meta": {},
+    "created_at": "2024-01-05T10:43:44.691335Z",
+    "updated_at": "2024-01-18T08:22:27.714099Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 3,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_length": 26.331202,
+      "value": {
+        "start": 0.06071104326328066,
+        "end": 3.9712855977187265,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "VqeDs",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 26.331202,
+      "value": {
+        "start": 0.06071104326328066,
+        "end": 3.9712855977187265,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "VqeDs",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 26.331202,
+      "value": {
+        "start": 3.9913398262031135,
+        "end": 7.5810467249083695,
+        "channel": 0,
+        "labels": [
+          "Class 1"
+        ]
+      },
+      "id": "YOLf8",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 26.331202,
+      "value": {
+        "start": 3.9913398262031135,
+        "end": 7.5810467249083695,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "YOLf8",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 26.331202,
+      "value": {
+        "start": 7.601100953392751,
+        "end": 19.232553474337156,
+        "channel": 0,
+        "labels": [
+          "Class 2"
+        ]
+      },
+      "id": "GjNPq",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 26.331202,
+      "value": {
+        "start": 7.601100953392751,
+        "end": 19.232553474337156,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "GjNPq",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 26.331202,
+      "value": {
+        "start": 19.23255347433716,
+        "end": 26.331202,
+        "channel": 0,
+        "labels": [
+          "Class 3"
+        ]
+      },
+      "id": "F6RZn",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 26.331202,
+      "value": {
+        "start": 19.23255347433716,
+        "end": 26.331202,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "F6RZn",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-01-31T18:27:47.642075Z",
+  "updated_at": "2024-01-31T18:27:47.642106Z",
+  "draft_created_at": "2024-01-31T18:24:53.050169Z",
+  "lead_time": 220.493,
+  "import_id": null,
+  "last_action": null,
+  "project": 1,
+  "updated_by": 12,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

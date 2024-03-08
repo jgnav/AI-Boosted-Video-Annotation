@@ -1,0 +1,225 @@
+{
+  "id": 98,
+  "created_username": " fernando.castell.minon@alumnos.upm.es, 12",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 12,
+    "first_name": "",
+    "last_name": "",
+    "email": "fernando.castell.minon@alumnos.upm.es"
+  },
+  "task": {
+    "id": 213,
+    "data": {
+      "video_url": "/data/local-files/?d=videos/Arson009_x264.mp4",
+      "image_url": "/data/local-files/?d=images/Arson009_x264.png"
+    },
+    "meta": {},
+    "created_at": "2024-01-05T10:43:44.586243Z",
+    "updated_at": "2024-01-18T08:22:27.714099Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 1,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_length": 24.915011,
+      "value": {
+        "start": 0,
+        "end": 1.1342643604542268,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "6q7x5",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 24.915011,
+      "value": {
+        "start": 0,
+        "end": 1.1342643604542268,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "6q7x5",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 24.915011,
+      "value": {
+        "start": 1.1502355213516626,
+        "end": 5.957554951479867,
+        "channel": 0,
+        "labels": [
+          "Class 1"
+        ]
+      },
+      "id": "GBBbP",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 24.915011,
+      "value": {
+        "start": 1.1502355213516626,
+        "end": 5.957554951479867,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "GBBbP",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 24.915011,
+      "value": {
+        "start": 11.259980369428586,
+        "end": 24.915011,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "9Ekoo",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 24.915011,
+      "value": {
+        "start": 11.259980369428586,
+        "end": 24.915011,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "9Ekoo",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 24.915011,
+      "value": {
+        "start": 8.081719350838844,
+        "end": 11.24400920853115,
+        "channel": 0,
+        "labels": [
+          "Class 3"
+        ]
+      },
+      "id": "Dymm4",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 24.915011,
+      "value": {
+        "start": 8.081719350838844,
+        "end": 11.24400920853115,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "Dymm4",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 24.915011,
+      "value": {
+        "start": 5.989497273274741,
+        "end": 8.113661672633715,
+        "channel": 0,
+        "labels": [
+          "Class 2"
+        ]
+      },
+      "id": "g2Thx",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 24.915011,
+      "value": {
+        "start": 5.989497273274741,
+        "end": 8.113661672633715,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "g2Thx",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 24.915011,
+      "value": {
+        "start": 24.915011,
+        "end": 24.915011,
+        "channel": 0,
+        "labels": [
+          "Class 3"
+        ]
+      },
+      "id": "NN4Jz",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-01-31T18:22:36.393879Z",
+  "updated_at": "2024-01-31T18:22:36.393911Z",
+  "draft_created_at": "2024-01-31T18:17:10.623837Z",
+  "lead_time": 380.42,
+  "import_id": null,
+  "last_action": null,
+  "project": 1,
+  "updated_by": 12,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

@@ -1,0 +1,177 @@
+{
+  "id": 24,
+  "created_username": " mateo.camara@upm.es, 5",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 5,
+    "first_name": "",
+    "last_name": "",
+    "email": "mateo.camara@upm.es"
+  },
+  "task": {
+    "id": 230,
+    "data": {
+      "video_url": "/data/local-files/?d=videos/Robbery069_x264.mp4",
+      "image_url": "/data/local-files/?d=images/Robbery069_x264.png"
+    },
+    "meta": {},
+    "created_at": "2024-01-05T10:43:51.019499Z",
+    "updated_at": "2024-01-05T10:43:51.036861Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 8,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_length": 22.966667,
+      "value": {
+        "start": 0,
+        "end": 4.033333333333333,
+        "channel": 0,
+        "labels": [
+          "Class 1"
+        ]
+      },
+      "id": "1",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 22.966667,
+      "value": {
+        "start": 0,
+        "end": 4.033333333333333,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "1",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 22.966667,
+      "value": {
+        "start": 4.033333333333333,
+        "end": 15.258676020547945,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "2",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 22.966667,
+      "value": {
+        "start": 4.033333333333333,
+        "end": 15.258676020547945,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "2",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 22.966667,
+      "value": {
+        "start": 15.223719145357688,
+        "end": 17.880441659817354,
+        "channel": 0,
+        "labels": [
+          "Class 1"
+        ]
+      },
+      "id": "hZHa2",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 22.966667,
+      "value": {
+        "start": 15.223719145357688,
+        "end": 17.880441659817354,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "hZHa2",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 22.966667,
+      "value": {
+        "start": 17.85877747108067,
+        "end": 22.966667,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "_G9WFajXtt",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 22.966667,
+      "value": {
+        "start": 17.85877747108067,
+        "end": 22.966667,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "_G9WFajXtt",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "prediction-changed"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-01-10T18:10:26.692668Z",
+  "updated_at": "2024-01-10T18:10:26.692700Z",
+  "draft_created_at": "2024-01-10T18:08:10.715978Z",
+  "lead_time": 148.612,
+  "import_id": null,
+  "last_action": null,
+  "project": 2,
+  "updated_by": 5,
+  "parent_prediction": 190,
+  "parent_annotation": null,
+  "last_created_by": null
+}

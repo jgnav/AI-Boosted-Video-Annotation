@@ -1,0 +1,144 @@
+{
+  "id": 38,
+  "created_username": " sergiobenitogarcia@gmail.com, 7",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 7,
+    "first_name": "",
+    "last_name": "",
+    "email": "sergiobenitogarcia@gmail.com"
+  },
+  "task": {
+    "id": 214,
+    "data": {
+      "video_url": "/data/local-files/?d=videos/Assault039_x264.mp4"
+    },
+    "meta": {},
+    "created_at": "2024-01-05T10:43:44.655573Z",
+    "updated_at": "2024-01-05T10:43:44.655644Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 2,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": null,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_length": 9.613106,
+      "value": {
+        "start": 0,
+        "end": 3.855484674277017,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "D7Qt3",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 9.613106,
+      "value": {
+        "start": 0,
+        "end": 3.855484674277017,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "D7Qt3",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 9.613106,
+      "value": {
+        "start": 3.8481687640791473,
+        "end": 8.340137625570776,
+        "channel": 0,
+        "labels": [
+          "Class 1"
+        ]
+      },
+      "id": "mU7DL",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 9.613106,
+      "value": {
+        "start": 3.8481687640791473,
+        "end": 8.340137625570776,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "mU7DL",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 9.613106,
+      "value": {
+        "start": 8.325505805175037,
+        "end": 9.613106,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "Teqqf",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 9.613106,
+      "value": {
+        "start": 8.325505805175037,
+        "end": 9.613106,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "Teqqf",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-01-16T17:24:39.487965Z",
+  "updated_at": "2024-01-16T17:24:39.487995Z",
+  "draft_created_at": "2024-01-16T17:23:12.901844Z",
+  "lead_time": 135.758,
+  "import_id": null,
+  "last_action": null,
+  "project": 1,
+  "updated_by": 7,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

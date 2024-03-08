@@ -1,0 +1,80 @@
+{
+  "id": 119,
+  "created_username": " imanol.tinchaurza@alumnos.upm.es, 13",
+  "created_ago": "18\u00a0hours, 11\u00a0minutes",
+  "completed_by": {
+    "id": 13,
+    "first_name": "",
+    "last_name": "",
+    "email": "imanol.tinchaurza@alumnos.upm.es"
+  },
+  "task": {
+    "id": 22,
+    "data": {
+      "video_url": "/data/local-files/?d=videos/Burglary036_x264.mp4"
+    },
+    "meta": {},
+    "created_at": "2024-01-04T11:44:21.057642Z",
+    "updated_at": "2024-02-07T17:45:30.036218Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 2,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 13,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_length": 33.452993,
+      "value": {
+        "start": 0.025458898782343985,
+        "end": 33.452993,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "28SVE",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 33.452993,
+      "value": {
+        "start": 0.025458898782343985,
+        "end": 33.452993,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "28SVE",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-02-07T17:45:28.611577Z",
+  "updated_at": "2024-02-07T17:45:28.611617Z",
+  "draft_created_at": "2024-02-07T17:44:50.552627Z",
+  "lead_time": 97.393,
+  "import_id": null,
+  "last_action": null,
+  "project": 4,
+  "updated_by": 13,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

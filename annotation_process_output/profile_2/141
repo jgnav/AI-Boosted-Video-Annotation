@@ -1,0 +1,144 @@
+{
+  "id": 141,
+  "created_username": " juan.gutierrez@alumnos.upm.es, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "juan.gutierrez@alumnos.upm.es"
+  },
+  "task": {
+    "id": 13,
+    "data": {
+      "video_url": "/data/local-files/?d=videos/Explosion005_x264.mp4"
+    },
+    "meta": {},
+    "created_at": "2024-01-04T10:56:48.709088Z",
+    "updated_at": "2024-01-25T13:31:11.486963Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 3,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_length": 23.1,
+      "value": {
+        "start": 0,
+        "end": 8.168797564687976,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "R8R93",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 23.1,
+      "value": {
+        "start": 0,
+        "end": 8.168797564687976,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "R8R93",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 23.1,
+      "value": {
+        "start": 10.747184170471844,
+        "end": 23.1,
+        "channel": 0,
+        "labels": [
+          "Class 1"
+        ]
+      },
+      "id": "A30g5",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 23.1,
+      "value": {
+        "start": 10.747184170471844,
+        "end": 23.1,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "A30g5",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 23.1,
+      "value": {
+        "start": 8.157077625570777,
+        "end": 10.747184170471842,
+        "channel": 0,
+        "labels": [
+          "Class 2"
+        ]
+      },
+      "id": "iJScV",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 23.1,
+      "value": {
+        "start": 8.157077625570777,
+        "end": 10.747184170471842,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "iJScV",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-02-12T09:43:28.881720Z",
+  "updated_at": "2024-02-12T09:43:28.881749Z",
+  "draft_created_at": "2024-02-12T09:40:21.807050Z",
+  "lead_time": 256.769,
+  "import_id": null,
+  "last_action": null,
+  "project": 5,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

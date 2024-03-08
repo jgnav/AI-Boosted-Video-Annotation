@@ -1,0 +1,113 @@
+{
+  "id": 135,
+  "created_username": " fruanks@gmail.com, 14",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 14,
+    "first_name": "",
+    "last_name": "",
+    "email": "fruanks@gmail.com"
+  },
+  "task": {
+    "id": 219,
+    "data": {
+      "video_url": "/data/local-files/?d=videos/RoadAccidents047_x264.mp4",
+      "image_url": "/data/local-files/?d=images/RoadAccidents047_x264.png"
+    },
+    "meta": {},
+    "created_at": "2024-01-05T10:43:44.847764Z",
+    "updated_at": "2024-02-08T11:55:39.971783Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 7,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_length": 14.650998,
+      "value": {
+        "start": 0,
+        "end": 5.597261031963471,
+        "channel": 0,
+        "labels": [
+          "Class 1"
+        ]
+      },
+      "id": "Vbs3c",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 14.650998,
+      "value": {
+        "start": 0,
+        "end": 5.597261031963471,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "Vbs3c",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 14.650998,
+      "value": {
+        "start": 5.6084109543378995,
+        "end": 14.650998,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "zBYpl",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 14.650998,
+      "value": {
+        "start": 5.6084109543378995,
+        "end": 14.650998,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "zBYpl",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-02-08T17:11:35.499352Z",
+  "updated_at": "2024-02-08T17:11:35.499407Z",
+  "draft_created_at": "2024-02-08T17:11:00.365140Z",
+  "lead_time": 87.985,
+  "import_id": null,
+  "last_action": null,
+  "project": 1,
+  "updated_by": 14,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

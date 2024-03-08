@@ -1,0 +1,176 @@
+{
+  "id": 125,
+  "created_username": " cserrano@sigmacognition.ai, 12",
+  "created_ago": "8\u00a0minutes",
+  "completed_by": {
+    "id": 12,
+    "first_name": "",
+    "last_name": "",
+    "email": "cserrano@sigmacognition.ai"
+  },
+  "task": {
+    "id": 442,
+    "data": {
+      "video_url": "/data/local-files/?d=videos/Assault031_x264.mp4"
+    },
+    "meta": {},
+    "created_at": "2023-12-20T18:20:08.082478Z",
+    "updated_at": "2023-12-22T19:02:01.407804Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 2,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 6,
+    "updated_by": 12,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_length": 25.217007,
+      "value": {
+        "start": 0,
+        "end": 4.055518651546391,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "s6uKq",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 25.217007,
+      "value": {
+        "start": 0,
+        "end": 4.055518651546391,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "s6uKq",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 25.217007,
+      "value": {
+        "start": 21.005506861855668,
+        "end": 25.217007,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "41UWi",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 25.217007,
+      "value": {
+        "start": 21.005506861855668,
+        "end": 25.217007,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "41UWi",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 25.217007,
+      "value": {
+        "start": 4.055518651546391,
+        "end": 6.75919775257732,
+        "channel": 0,
+        "labels": [
+          "Class 1"
+        ]
+      },
+      "id": "lDD05",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 25.217007,
+      "value": {
+        "start": 4.055518651546391,
+        "end": 6.75919775257732,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "lDD05",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 25.217007,
+      "value": {
+        "start": 6.70720392371134,
+        "end": 21.03150377628866,
+        "channel": 0,
+        "labels": [
+          "Class 2"
+        ]
+      },
+      "id": "T3hQD",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 25.217007,
+      "value": {
+        "start": 6.70720392371134,
+        "end": 21.03150377628866,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "T3hQD",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2023-12-22T18:53:50.383269Z",
+  "updated_at": "2023-12-22T19:02:01.420441Z",
+  "draft_created_at": "2023-12-22T18:47:12.879670Z",
+  "lead_time": 618.008,
+  "import_id": null,
+  "last_action": null,
+  "project": 6,
+  "updated_by": 12,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

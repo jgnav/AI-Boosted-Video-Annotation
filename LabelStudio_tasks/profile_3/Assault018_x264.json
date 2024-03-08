@@ -1,0 +1,76 @@
+{
+  "data": {
+    "video_url": "/data/local-files/?d=videos/Assault018_x264.mp4",
+    "image_url": "/data/local-files/?d=images/Assault018_x264.png"
+  },
+  "predictions": [
+    {
+      "result": [
+        {
+          "original_length": 12.033333333333333,
+          "value": {
+            "start": 0.0,
+            "end": 2.533333333333333,
+            "channel": 0,
+            "labels": [
+              "Class 0"
+            ]
+          },
+          "id": "1",
+          "from_name": "Classes",
+          "to_name": "audio",
+          "type": "labels",
+          "origin": "manual"
+        },
+        {
+          "original_length": 2.533333333333333,
+          "value": {
+            "start": 0.0,
+            "end": 2.533333333333333,
+            "channel": 0,
+            "choices": [
+              "Abnormal Event"
+            ]
+          },
+          "id": "1",
+          "from_name": "Anomaly checkbox",
+          "to_name": "audio",
+          "type": "choices",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_length": 9.5,
+          "value": {
+            "start": 2.533333333333333,
+            "end": 12.033333333333333,
+            "channel": 0,
+            "labels": [
+              "Class 1"
+            ]
+          },
+          "id": "2",
+          "from_name": "Classes",
+          "to_name": "audio",
+          "type": "labels",
+          "origin": "manual"
+        },
+        {
+          "original_length": 9.5,
+          "value": {
+            "start": 2.533333333333333,
+            "end": 12.033333333333333,
+            "channel": 0,
+            "choices": [
+              "Abnormal Event"
+            ]
+          },
+          "id": "2",
+          "from_name": "Anomaly checkbox",
+          "to_name": "audio",
+          "type": "choices",
+          "origin": "prediction-changed"
+        }
+      ]
+    }
+  ]
+}

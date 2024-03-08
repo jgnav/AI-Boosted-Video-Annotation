@@ -1,0 +1,208 @@
+{
+  "id": 66,
+  "created_username": " alejandro.almodovar@upm.es, 9",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 9,
+    "first_name": "",
+    "last_name": "",
+    "email": "alejandro.almodovar@upm.es"
+  },
+  "task": {
+    "id": 37,
+    "data": {
+      "video_url": "/data/local-files/?d=videos/Shoplifting019_x264.mp4"
+    },
+    "meta": {},
+    "created_at": "2024-01-04T11:45:48.065326Z",
+    "updated_at": "2024-01-04T11:45:48.065359Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 7,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 3,
+    "updated_by": null,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_length": 21.9,
+      "value": {
+        "start": 0.03835376532399299,
+        "end": 6.059894921190892,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "YWSlH",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 21.9,
+      "value": {
+        "start": 0.03835376532399299,
+        "end": 6.059894921190892,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "YWSlH",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 21.9,
+      "value": {
+        "start": 17.374255691768827,
+        "end": 21.9,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "XrfvJ",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 21.9,
+      "value": {
+        "start": 17.374255691768827,
+        "end": 21.9,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "XrfvJ",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 21.9,
+      "value": {
+        "start": 6.040718038528896,
+        "end": 8.476182136602452,
+        "channel": 0,
+        "labels": [
+          "Class 1"
+        ]
+      },
+      "id": "U2LiJ",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 21.9,
+      "value": {
+        "start": 6.040718038528896,
+        "end": 8.476182136602452,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "U2LiJ",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 21.9,
+      "value": {
+        "start": 8.457005253940455,
+        "end": 13.922416812609455,
+        "channel": 0,
+        "labels": [
+          "Class 2"
+        ]
+      },
+      "id": "sFSas",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 21.9,
+      "value": {
+        "start": 8.457005253940455,
+        "end": 13.922416812609455,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "sFSas",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 21.9,
+      "value": {
+        "start": 13.864886164623467,
+        "end": 17.393432574430822,
+        "channel": 0,
+        "labels": [
+          "Class 3"
+        ]
+      },
+      "id": "VA1qH",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 21.9,
+      "value": {
+        "start": 13.864886164623467,
+        "end": 17.393432574430822,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "VA1qH",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-01-19T17:28:06.289323Z",
+  "updated_at": "2024-01-19T17:28:06.289351Z",
+  "draft_created_at": "2024-01-19T17:25:10.790375Z",
+  "lead_time": 200.136,
+  "import_id": null,
+  "last_action": null,
+  "project": 3,
+  "updated_by": 9,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

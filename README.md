@@ -1,1 +1,3 @@
-# AI-Boosted-Video-Annotation
+# AI-Boosted-Video-Annotation: Assessing the Process Enhancement
+
+In progress...

@@ -1,0 +1,145 @@
+{
+  "id": 137,
+  "created_username": " fruanks@gmail.com, 14",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 14,
+    "first_name": "",
+    "last_name": "",
+    "email": "fruanks@gmail.com"
+  },
+  "task": {
+    "id": 221,
+    "data": {
+      "video_url": "/data/local-files/?d=videos/Stealing091_x264.mp4",
+      "image_url": "/data/local-files/?d=images/Stealing091_x264.png"
+    },
+    "meta": {},
+    "created_at": "2024-01-05T10:43:44.921476Z",
+    "updated_at": "2024-02-08T11:55:39.971783Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 9,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_length": 20.130998,
+      "value": {
+        "start": 0.04596118264840183,
+        "end": 7.798080656012177,
+        "channel": 0,
+        "labels": [
+          "Class 1"
+        ]
+      },
+      "id": "HerbA",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 20.130998,
+      "value": {
+        "start": 0.04596118264840183,
+        "end": 7.798080656012177,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "HerbA",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 20.130998,
+      "value": {
+        "start": 7.813401050228311,
+        "end": 16.806472455098934,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "Eb3tP",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 20.130998,
+      "value": {
+        "start": 7.813401050228311,
+        "end": 16.806472455098934,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "Eb3tP",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 20.130998,
+      "value": {
+        "start": 16.852433637747335,
+        "end": 20.11567760578387,
+        "channel": 0,
+        "labels": [
+          "Class 2"
+        ]
+      },
+      "id": "vZKbE",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 20.130998,
+      "value": {
+        "start": 16.852433637747335,
+        "end": 20.11567760578387,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "vZKbE",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-02-08T17:17:47.395604Z",
+  "updated_at": "2024-02-08T17:17:47.395668Z",
+  "draft_created_at": "2024-02-08T17:16:45.717310Z",
+  "lead_time": 118.272,
+  "import_id": null,
+  "last_action": null,
+  "project": 1,
+  "updated_by": 14,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

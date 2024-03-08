@@ -1,0 +1,144 @@
+{
+  "id": 109,
+  "created_username": " jl.blanco@upm.es, 4",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 4,
+    "first_name": "",
+    "last_name": "",
+    "email": "jl.blanco@upm.es"
+  },
+  "task": {
+    "id": 2,
+    "data": {
+      "video_url": "/data/local-files/?d=videos/Assault031_x264.mp4"
+    },
+    "meta": {},
+    "created_at": "2024-01-04T10:55:20.871466Z",
+    "updated_at": "2024-01-04T10:55:20.871510Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 2,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 6,
+    "updated_by": null,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_length": 25.217007,
+      "value": {
+        "start": 0.012794016742770167,
+        "end": 3.927763140030441,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "4vQLZ",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 25.217007,
+      "value": {
+        "start": 3.914969123287671,
+        "end": 6.4609784550989335,
+        "channel": 0,
+        "labels": [
+          "Class 1"
+        ]
+      },
+      "id": "4mfpT",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 25.217007,
+      "value": {
+        "start": 6.435390421613393,
+        "end": 8.073024564687975,
+        "channel": 0,
+        "labels": [
+          "Class 2"
+        ]
+      },
+      "id": "4PU9l",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 25.217007,
+      "value": {
+        "start": 8.060230547945205,
+        "end": 15.966932894977166,
+        "channel": 0,
+        "labels": [
+          "Class 3"
+        ]
+      },
+      "id": "rRme3",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 25.217007,
+      "value": {
+        "start": 16.00531494520548,
+        "end": 21.084539592085235,
+        "channel": 0,
+        "labels": [
+          "Class 4"
+        ]
+      },
+      "id": "KxNCf",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 25.217007,
+      "value": {
+        "start": 21.058951558599695,
+        "end": 25.217007,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "TVCZ_",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-02-05T06:59:20.641587Z",
+  "updated_at": "2024-02-05T06:59:20.641624Z",
+  "draft_created_at": "2024-02-05T06:54:51.142947Z",
+  "lead_time": 305.765,
+  "import_id": null,
+  "last_action": null,
+  "project": 6,
+  "updated_by": 4,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

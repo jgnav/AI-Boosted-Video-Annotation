@@ -1,0 +1,144 @@
+{
+  "id": 53,
+  "created_username": " sergiobenitogarcia@gmail.com, 7",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 7,
+    "first_name": "",
+    "last_name": "",
+    "email": "sergiobenitogarcia@gmail.com"
+  },
+  "task": {
+    "id": 216,
+    "data": {
+      "video_url": "/data/local-files/?d=videos/Burglary030_x264.mp4"
+    },
+    "meta": {},
+    "created_at": "2024-01-05T10:43:44.742559Z",
+    "updated_at": "2024-01-05T10:43:44.742609Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 4,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": null,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_length": 30.023219,
+      "value": {
+        "start": 0,
+        "end": 10.327621756468798,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "FaB02",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 30.023219,
+      "value": {
+        "start": 0,
+        "end": 10.327621756468798,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "FaB02",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 30.023219,
+      "value": {
+        "start": 10.281924315068492,
+        "end": 12.269763015981736,
+        "channel": 0,
+        "labels": [
+          "Class 1"
+        ]
+      },
+      "id": "fPouq",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 30.023219,
+      "value": {
+        "start": 10.281924315068492,
+        "end": 12.269763015981736,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "fPouq",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 30.023219,
+      "value": {
+        "start": 12.22406557458143,
+        "end": 30.023219,
+        "channel": 0,
+        "labels": [
+          "Class 2"
+        ]
+      },
+      "id": "bLG12",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 30.023219,
+      "value": {
+        "start": 12.22406557458143,
+        "end": 30.023219,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "bLG12",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-01-17T16:15:22.051369Z",
+  "updated_at": "2024-01-17T16:15:22.051405Z",
+  "draft_created_at": "2024-01-17T16:13:14.717868Z",
+  "lead_time": 191.399,
+  "import_id": null,
+  "last_action": null,
+  "project": 1,
+  "updated_by": 7,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

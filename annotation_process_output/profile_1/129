@@ -1,0 +1,208 @@
+{
+  "id": 129,
+  "created_username": " cserrano@sigmacognition.ai, 12",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 12,
+    "first_name": "",
+    "last_name": "",
+    "email": "cserrano@sigmacognition.ai"
+  },
+  "task": {
+    "id": 446,
+    "data": {
+      "video_url": "/data/local-files/?d=videos/Robbery132_x264.mp4"
+    },
+    "meta": {},
+    "created_at": "2023-12-20T18:20:08.113254Z",
+    "updated_at": "2023-12-22T12:20:02.358635Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 6,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 6,
+    "updated_by": 3,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_length": 22.095011,
+      "value": {
+        "start": 0,
+        "end": 5.7401471876288666,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "fMPm_",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 22.095011,
+      "value": {
+        "start": 0,
+        "end": 5.7401471876288666,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "fMPm_",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 22.095011,
+      "value": {
+        "start": 5.717368825773196,
+        "end": 7.015735451546391,
+        "channel": 0,
+        "labels": [
+          "Class 1"
+        ]
+      },
+      "id": "-ffe5",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 22.095011,
+      "value": {
+        "start": 5.717368825773196,
+        "end": 7.015735451546391,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "-ffe5",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 22.095011,
+      "value": {
+        "start": 6.9701787278350515,
+        "end": 17.197663201030927,
+        "channel": 0,
+        "labels": [
+          "Class 2"
+        ]
+      },
+      "id": "vxDb6",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 22.095011,
+      "value": {
+        "start": 6.9701787278350515,
+        "end": 17.197663201030927,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "vxDb6",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 22.095011,
+      "value": {
+        "start": 17.152106477319588,
+        "end": 21.57110867731959,
+        "channel": 0,
+        "labels": [
+          "Class 3"
+        ]
+      },
+      "id": "L18gS",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 22.095011,
+      "value": {
+        "start": 17.152106477319588,
+        "end": 21.57110867731959,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "L18gS",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 22.095011,
+      "value": {
+        "start": 21.571108677319586,
+        "end": 22.095011,
+        "channel": 0,
+        "labels": [
+          "Class 4"
+        ]
+      },
+      "id": "DufQN",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 22.095011,
+      "value": {
+        "start": 21.571108677319586,
+        "end": 22.095011,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "DufQN",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2023-12-22T19:15:34.459966Z",
+  "updated_at": "2023-12-22T19:15:34.459982Z",
+  "draft_created_at": "2023-12-22T19:12:22.719921Z",
+  "lead_time": 288.255,
+  "import_id": null,
+  "last_action": null,
+  "project": 6,
+  "updated_by": 12,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

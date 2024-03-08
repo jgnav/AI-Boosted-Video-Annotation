@@ -1,0 +1,240 @@
+{
+  "id": 101,
+  "created_username": " mmoyano@sigma-ai.com, 7",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 7,
+    "first_name": "",
+    "last_name": "",
+    "email": "mmoyano@sigma-ai.com"
+  },
+  "task": {
+    "id": 479,
+    "data": {
+      "video_url": "/data/local-files/?d=videos/Vandalism012_x264.mp4"
+    },
+    "meta": {},
+    "created_at": "2023-12-20T18:20:39.805467Z",
+    "updated_at": "2023-12-22T12:20:53.190364Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 9,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 3,
+    "updated_by": 3,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_length": 28.166667,
+      "value": {
+        "start": 0,
+        "end": 7.674023429223744,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "qxiAT",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 28.166667,
+      "value": {
+        "start": 0,
+        "end": 7.674023429223744,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "qxiAT",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 28.166667,
+      "value": {
+        "start": 7.6311517899543375,
+        "end": 10.289193424657533,
+        "channel": 0,
+        "labels": [
+          "Class 1"
+        ]
+      },
+      "id": "MGR_L",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 28.166667,
+      "value": {
+        "start": 7.6311517899543375,
+        "end": 10.289193424657533,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "MGR_L",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 28.166667,
+      "value": {
+        "start": 10.246321785388128,
+        "end": 14.383434974885844,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "92pst",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 28.166667,
+      "value": {
+        "start": 10.246321785388128,
+        "end": 14.383434974885844,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "92pst",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 28.166667,
+      "value": {
+        "start": 14.340563335616439,
+        "end": 22.014586764840185,
+        "channel": 0,
+        "labels": [
+          "Class 2"
+        ]
+      },
+      "id": "tb2Ry",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 28.166667,
+      "value": {
+        "start": 14.340563335616439,
+        "end": 22.014586764840185,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "tb2Ry",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 28.166667,
+      "value": {
+        "start": 21.97171512557078,
+        "end": 23.386479221461183,
+        "channel": 0,
+        "labels": [
+          "Class 3"
+        ]
+      },
+      "id": "nQG7G",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 28.166667,
+      "value": {
+        "start": 21.97171512557078,
+        "end": 23.386479221461183,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "nQG7G",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 28.166667,
+      "value": {
+        "start": 23.343607582191783,
+        "end": 28.166667,
+        "channel": 0,
+        "labels": [
+          "Class 4"
+        ]
+      },
+      "id": "2MkDI",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 28.166667,
+      "value": {
+        "start": 23.343607582191783,
+        "end": 28.166667,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "2MkDI",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2023-12-22T12:23:56.376167Z",
+  "updated_at": "2023-12-22T12:23:56.376182Z",
+  "draft_created_at": "2023-12-22T12:22:11.010395Z",
+  "lead_time": 188.502,
+  "import_id": null,
+  "last_action": null,
+  "project": 3,
+  "updated_by": 7,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

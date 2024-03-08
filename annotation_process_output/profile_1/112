@@ -1,0 +1,145 @@
+{
+  "id": 112,
+  "created_username": " jl.blanco@upm.es, 4",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 4,
+    "first_name": "",
+    "last_name": "",
+    "email": "jl.blanco@upm.es"
+  },
+  "task": {
+    "id": 5,
+    "data": {
+      "video_url": "/data/local-files/?d=videos/RoadAccidents144_x264.mp4",
+      "image_url": "/data/local-files/?d=images/RoadAccidents144_x264.png"
+    },
+    "meta": {},
+    "created_at": "2024-01-04T10:55:20.978143Z",
+    "updated_at": "2024-01-04T10:55:20.995227Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 5,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 6,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_length": 28.908005,
+      "value": {
+        "start": 0,
+        "end": 5.516016170431212,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "1",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 28.908005,
+      "value": {
+        "start": 0,
+        "end": 5.516016170431212,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "1",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 28.908005,
+      "value": {
+        "start": 6.985160161704312,
+        "end": 12.320246966974675,
+        "channel": 0,
+        "labels": [
+          "Class 1"
+        ]
+      },
+      "id": "2",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 28.908005,
+      "value": {
+        "start": 6.985160161704312,
+        "end": 12.320246966974675,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "2",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 28.908005,
+      "value": {
+        "start": 5.4759003311088295,
+        "end": 7.0044036755646815,
+        "channel": 0,
+        "labels": [
+          "Class 2"
+        ]
+      },
+      "id": "ENR_f",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 28.908005,
+      "value": {
+        "start": 12.317065785420946,
+        "end": 28.908005,
+        "channel": 0,
+        "labels": [
+          "Class 3"
+        ]
+      },
+      "id": "lGG0A",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-02-05T07:06:05.026520Z",
+  "updated_at": "2024-02-05T07:06:05.026548Z",
+  "draft_created_at": "2024-02-05T07:04:09.479085Z",
+  "lead_time": 154.682,
+  "import_id": null,
+  "last_action": null,
+  "project": 6,
+  "updated_by": 4,
+  "parent_prediction": 3,
+  "parent_annotation": null,
+  "last_created_by": null
+}

@@ -1,0 +1,273 @@
+{
+  "id": 62,
+  "created_username": " srodriguez@sigmacognition.ai, 6",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 6,
+    "first_name": "",
+    "last_name": "",
+    "email": "srodriguez@sigmacognition.ai"
+  },
+  "task": {
+    "id": 452,
+    "data": {
+      "video_url": "/data/local-files/?d=videos/Assault031_x264.mp4",
+      "image_url": "/data/local-files/?d=images/Assault031_x264.png"
+    },
+    "meta": {},
+    "created_at": "2023-12-20T18:20:21.020121Z",
+    "updated_at": "2023-12-21T10:33:21.372274Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 2,
+    "total_annotations": 2,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 4,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_length": 25.217007,
+      "value": {
+        "start": 0,
+        "end": 2.0549070090543253,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "HXWT7",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 25.217007,
+      "value": {
+        "start": 0,
+        "end": 2.0549070090543253,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "HXWT7",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 25.217007,
+      "value": {
+        "start": 2.0295377867203217,
+        "end": 4.0844447957746475,
+        "channel": 0,
+        "labels": [
+          "Class 1"
+        ]
+      },
+      "id": "IXMOF",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 25.217007,
+      "value": {
+        "start": 2.0295377867203217,
+        "end": 4.0844447957746475,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "IXMOF",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 25.217007,
+      "value": {
+        "start": 4.03370635110664,
+        "end": 6.773582363179074,
+        "channel": 0,
+        "labels": [
+          "Class 2"
+        ]
+      },
+      "id": "TN2Jh",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 25.217007,
+      "value": {
+        "start": 4.03370635110664,
+        "end": 6.773582363179074,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "TN2Jh",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 25.217007,
+      "value": {
+        "start": 6.74821314084507,
+        "end": 7.813720478873239,
+        "channel": 0,
+        "labels": [
+          "Class 3"
+        ]
+      },
+      "id": "7t-Ra",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 25.217007,
+      "value": {
+        "start": 6.74821314084507,
+        "end": 7.813720478873239,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "7t-Ra",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 25.217007,
+      "value": {
+        "start": 21.031085314889335,
+        "end": 25.217007,
+        "channel": 0,
+        "labels": [
+          "Class 1"
+        ]
+      },
+      "id": "fxrvq",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 25.217007,
+      "value": {
+        "start": 21.031085314889335,
+        "end": 25.217007,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "fxrvq",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 25.217007,
+      "value": {
+        "start": 16.51536373943662,
+        "end": 21.05645453722334,
+        "channel": 0,
+        "labels": [
+          "Class 2"
+        ]
+      },
+      "id": "TxqW5",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 25.217007,
+      "value": {
+        "start": 16.51536373943662,
+        "end": 21.05645453722334,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "TxqW5",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 25.217007,
+      "value": {
+        "start": 7.813720478873239,
+        "end": 16.54073296177062,
+        "channel": 0,
+        "labels": [
+          "Class 4"
+        ]
+      },
+      "id": "oD1fN",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 25.217007,
+      "value": {
+        "start": 7.813720478873239,
+        "end": 16.54073296177062,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "oD1fN",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2023-12-21T12:54:18.523837Z",
+  "updated_at": "2023-12-21T12:54:18.523852Z",
+  "draft_created_at": "2023-12-21T12:49:23.546373Z",
+  "lead_time": 381.801,
+  "import_id": null,
+  "last_action": null,
+  "project": 5,
+  "updated_by": 6,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

@@ -1,0 +1,272 @@
+{
+  "id": 88,
+  "created_username": " david.fgarcia@alumnos.upm.es, 11",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 11,
+    "first_name": "",
+    "last_name": "",
+    "email": "david.fgarcia@alumnos.upm.es"
+  },
+  "task": {
+    "id": 37,
+    "data": {
+      "video_url": "/data/local-files/?d=videos/Shoplifting019_x264.mp4"
+    },
+    "meta": {},
+    "created_at": "2024-01-04T11:45:48.065326Z",
+    "updated_at": "2024-01-23T10:23:44.703270Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 7,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 3,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_length": 21.9,
+      "value": {
+        "start": 0,
+        "end": 5.8999999999999995,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "1vkKO",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 21.9,
+      "value": {
+        "start": 0,
+        "end": 5.8999999999999995,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "1vkKO",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 21.9,
+      "value": {
+        "start": 17.4,
+        "end": 21.9,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "ct3Wf",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 21.9,
+      "value": {
+        "start": 17.4,
+        "end": 21.9,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "ct3Wf",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 21.9,
+      "value": {
+        "start": 5.883333333333333,
+        "end": 8.549999999999999,
+        "channel": 0,
+        "labels": [
+          "Class 1"
+        ]
+      },
+      "id": "UZauv",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 21.9,
+      "value": {
+        "start": 5.883333333333333,
+        "end": 8.549999999999999,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "UZauv",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 21.9,
+      "value": {
+        "start": 8.549999999999999,
+        "end": 12.566666666666666,
+        "channel": 0,
+        "labels": [
+          "Class 2"
+        ]
+      },
+      "id": "BIwSt",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 21.9,
+      "value": {
+        "start": 8.549999999999999,
+        "end": 12.566666666666666,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "BIwSt",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 21.9,
+      "value": {
+        "start": 12.549999999999997,
+        "end": 13.516666666666666,
+        "channel": 0,
+        "labels": [
+          "Class 3"
+        ]
+      },
+      "id": "9Jom9",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 21.9,
+      "value": {
+        "start": 12.549999999999997,
+        "end": 13.516666666666666,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "9Jom9",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 21.9,
+      "value": {
+        "start": 13.516666666666667,
+        "end": 15,
+        "channel": 0,
+        "labels": [
+          "Class 2"
+        ]
+      },
+      "id": "-jX4d",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 21.9,
+      "value": {
+        "start": 13.516666666666667,
+        "end": 15,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "-jX4d",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 21.9,
+      "value": {
+        "start": 14.983333333333333,
+        "end": 17.416666666666664,
+        "channel": 0,
+        "labels": [
+          "Class 4"
+        ]
+      },
+      "id": "iSst7",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 21.9,
+      "value": {
+        "start": 14.983333333333333,
+        "end": 17.416666666666664,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "iSst7",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-01-27T12:40:59.836265Z",
+  "updated_at": "2024-01-27T12:40:59.836316Z",
+  "draft_created_at": "2024-01-27T12:37:51.999668Z",
+  "lead_time": 225.474,
+  "import_id": null,
+  "last_action": null,
+  "project": 3,
+  "updated_by": 11,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

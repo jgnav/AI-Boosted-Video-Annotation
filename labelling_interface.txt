@@ -1,0 +1,22 @@
+<View>
+  <Header value="UCF-Crime Annotation"/>
+  
+  <Video name="video" value="$video_url" sync="audio"/>
+  <Audio name="audio" value="$video_url" sync="video" speed="false"/>
+  
+  <Labels name="Classes" toName="audio" choice="single">
+    <Label value="Class 0" background="#C0392B"/>
+    <Label value="Class 1" background="#1BB500"/>
+    <Label value="Class 2" background="#3498DB"/>
+    <Label value="Class 3" background="#F1C40F"/>
+    <Label value="Class 4" background="#8E44AD"/>
+  </Labels>
+  
+  <Choices name="Anomaly checkbox" toName="audio" perRegion="true" choice="single" showInline="true">
+    <Choice value="Normal Event" />
+    <Choice value="Abnormal Event" />
+  </Choices>
+  
+  <Image name="image" value="$image_url" maxWidth="700px" zoomControl="false"></Image>
+ 
+</View>

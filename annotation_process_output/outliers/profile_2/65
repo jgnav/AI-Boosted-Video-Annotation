@@ -1,0 +1,176 @@
+{
+  "id": 65,
+  "created_username": " srodriguez@sigmacognition.ai, 6",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 6,
+    "first_name": "",
+    "last_name": "",
+    "email": "srodriguez@sigmacognition.ai"
+  },
+  "task": {
+    "id": 455,
+    "data": {
+      "video_url": "/data/local-files/?d=videos/RoadAccidents144_x264.mp4"
+    },
+    "meta": {},
+    "created_at": "2023-12-20T18:20:21.049863Z",
+    "updated_at": "2023-12-21T10:39:53.642218Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 5,
+    "total_annotations": 2,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 4,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_length": 28.908005,
+      "value": {
+        "start": 0.14867483932319053,
+        "end": 5.658491176930029,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "s1QqH",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 28.908005,
+      "value": {
+        "start": 0.14867483932319053,
+        "end": 5.658491176930029,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "s1QqH",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 28.908005,
+      "value": {
+        "start": 5.633783480348832,
+        "end": 7.388029937613788,
+        "channel": 0,
+        "labels": [
+          "Class 1"
+        ]
+      },
+      "id": "bbkCy",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 28.908005,
+      "value": {
+        "start": 5.633783480348832,
+        "end": 7.388029937613788,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "bbkCy",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 28.908005,
+      "value": {
+        "start": 7.388029937613788,
+        "end": 10.007045775220627,
+        "channel": 0,
+        "labels": [
+          "Class 2"
+        ]
+      },
+      "id": "QaMc2",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 28.908005,
+      "value": {
+        "start": 7.388029937613788,
+        "end": 10.007045775220627,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "QaMc2",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 28.908005,
+      "value": {
+        "start": 10.007045775220625,
+        "end": 28.908005,
+        "channel": 0,
+        "labels": [
+          "Class 3"
+        ]
+      },
+      "id": "HMy26",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 28.908005,
+      "value": {
+        "start": 10.007045775220625,
+        "end": 28.908005,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "HMy26",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2023-12-21T13:09:49.152364Z",
+  "updated_at": "2023-12-21T13:09:49.152387Z",
+  "draft_created_at": "2023-12-21T13:08:10.369788Z",
+  "lead_time": 160.379,
+  "import_id": null,
+  "last_action": null,
+  "project": 5,
+  "updated_by": 6,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

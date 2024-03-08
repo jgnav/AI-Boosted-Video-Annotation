@@ -1,0 +1,145 @@
+{
+  "id": 120,
+  "created_username": " esancho@sigmacognition.ai, 11",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 11,
+    "first_name": "",
+    "last_name": "",
+    "email": "esancho@sigmacognition.ai"
+  },
+  "task": {
+    "id": 467,
+    "data": {
+      "video_url": "/data/local-files/?d=videos/Shoplifting019_x264.mp4",
+      "image_url": "/data/local-files/?d=images/Shoplifting019_x264.png"
+    },
+    "meta": {},
+    "created_at": "2023-12-20T18:20:30.960605Z",
+    "updated_at": "2023-12-22T12:21:02.891462Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 7,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 3,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_length": 21.9,
+      "value": {
+        "start": 0,
+        "end": 5.996774193548387,
+        "channel": 0,
+        "labels": [
+          "Class 2"
+        ]
+      },
+      "id": "1",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 21.9,
+      "value": {
+        "start": 0,
+        "end": 5.996774193548387,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "1",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 21.9,
+      "value": {
+        "start": 5.966666666666667,
+        "end": 17,
+        "channel": 0,
+        "labels": [
+          "Class 1"
+        ]
+      },
+      "id": "3",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 21.9,
+      "value": {
+        "start": 5.966666666666667,
+        "end": 17,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "3",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 21.9,
+      "value": {
+        "start": 17,
+        "end": 21.9,
+        "channel": 0,
+        "labels": [
+          "Class 2"
+        ]
+      },
+      "id": "4",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 21.9,
+      "value": {
+        "start": 17,
+        "end": 21.9,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "4",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "prediction-changed"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2023-12-22T16:29:49.876202Z",
+  "updated_at": "2023-12-22T16:29:49.876215Z",
+  "draft_created_at": "2023-12-22T16:28:12.195983Z",
+  "lead_time": 144.469,
+  "import_id": null,
+  "last_action": null,
+  "project": 4,
+  "updated_by": 11,
+  "parent_prediction": 308,
+  "parent_annotation": null,
+  "last_created_by": null
+}

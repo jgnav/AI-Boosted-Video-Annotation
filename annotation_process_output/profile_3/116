@@ -1,0 +1,177 @@
+{
+  "id": 116,
+  "created_username": " esancho@sigmacognition.ai, 11",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 11,
+    "first_name": "",
+    "last_name": "",
+    "email": "esancho@sigmacognition.ai"
+  },
+  "task": {
+    "id": 463,
+    "data": {
+      "video_url": "/data/local-files/?d=videos/Fighting023_x264.mp4",
+      "image_url": "/data/local-files/?d=images/Fighting023_x264.png"
+    },
+    "meta": {},
+    "created_at": "2023-12-20T18:20:30.929729Z",
+    "updated_at": "2023-12-22T12:21:02.891462Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 3,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 3,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_length": 34.166667,
+      "value": {
+        "start": 0,
+        "end": 6.454301130107527,
+        "channel": 0,
+        "labels": [
+          "Class 2"
+        ]
+      },
+      "id": "1",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 34.166667,
+      "value": {
+        "start": 0,
+        "end": 6.454301130107527,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "1",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 34.166667,
+      "value": {
+        "start": 8.88799285483871,
+        "end": 29.30340501827957,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "6",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 34.166667,
+      "value": {
+        "start": 8.88799285483871,
+        "end": 29.30340501827957,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "6",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 34.166667,
+      "value": {
+        "start": 29.266666666666666,
+        "end": 34.11469538064516,
+        "channel": 0,
+        "labels": [
+          "Class 2"
+        ]
+      },
+      "id": "7",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 34.166667,
+      "value": {
+        "start": 29.266666666666666,
+        "end": 34.11469538064516,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "7",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 34.166667,
+      "value": {
+        "start": 6.39247318064516,
+        "end": 8.964157793548386,
+        "channel": 0,
+        "labels": [
+          "Class 3"
+        ]
+      },
+      "id": "Ggab3",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 34.166667,
+      "value": {
+        "start": 6.39247318064516,
+        "end": 8.964157793548386,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "Ggab3",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2023-12-22T16:06:53.017846Z",
+  "updated_at": "2023-12-22T16:06:53.017859Z",
+  "draft_created_at": "2023-12-22T16:01:51.996778Z",
+  "lead_time": 385.82,
+  "import_id": null,
+  "last_action": null,
+  "project": 4,
+  "updated_by": 11,
+  "parent_prediction": 306,
+  "parent_annotation": null,
+  "last_created_by": null
+}

@@ -1,0 +1,112 @@
+{
+  "id": 132,
+  "created_username": " fruanks@gmail.com, 14",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 14,
+    "first_name": "",
+    "last_name": "",
+    "email": "fruanks@gmail.com"
+  },
+  "task": {
+    "id": 216,
+    "data": {
+      "video_url": "/data/local-files/?d=videos/Burglary030_x264.mp4"
+    },
+    "meta": {},
+    "created_at": "2024-01-05T10:43:44.742559Z",
+    "updated_at": "2024-02-08T11:55:39.971783Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 4,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_length": 30,
+      "value": {
+        "start": 0,
+        "end": 9.931506849315069,
+        "channel": 0,
+        "labels": [
+          "Class 1"
+        ]
+      },
+      "id": "wFDPK",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 30,
+      "value": {
+        "start": 0,
+        "end": 9.931506849315069,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "wFDPK",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 30,
+      "value": {
+        "start": 9.977168949771688,
+        "end": 30,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "LZwlu",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 30,
+      "value": {
+        "start": 9.977168949771688,
+        "end": 30,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "LZwlu",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-02-08T17:05:24.933148Z",
+  "updated_at": "2024-02-08T17:05:24.933199Z",
+  "draft_created_at": "2024-02-08T17:05:11.995813Z",
+  "lead_time": 72.701,
+  "import_id": null,
+  "last_action": null,
+  "project": 1,
+  "updated_by": 14,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

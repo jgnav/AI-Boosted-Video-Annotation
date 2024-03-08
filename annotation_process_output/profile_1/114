@@ -1,0 +1,113 @@
+{
+  "id": 114,
+  "created_username": " jl.blanco@upm.es, 4",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 4,
+    "first_name": "",
+    "last_name": "",
+    "email": "jl.blanco@upm.es"
+  },
+  "task": {
+    "id": 7,
+    "data": {
+      "video_url": "/data/local-files/?d=videos/Robbery134_x264.mp4",
+      "image_url": "/data/local-files/?d=images/Robbery134_x264.png"
+    },
+    "meta": {},
+    "created_at": "2024-01-04T10:55:21.055048Z",
+    "updated_at": "2024-01-04T10:55:21.070333Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 7,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 6,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_length": 21.007007,
+      "value": {
+        "start": 0,
+        "end": 11.366666666666667,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "1",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "original_length": 21.007007,
+      "value": {
+        "start": 0,
+        "end": 11.366666666666667,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "1",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "prediction"
+    },
+    {
+      "original_length": 21.007007,
+      "value": {
+        "start": 11.366666666666667,
+        "end": 21,
+        "channel": 0,
+        "labels": [
+          "Class 1"
+        ]
+      },
+      "id": "2",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "original_length": 21.007007,
+      "value": {
+        "start": 11.366666666666667,
+        "end": 21,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "2",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "prediction"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-02-05T07:09:08.418616Z",
+  "updated_at": "2024-02-05T07:09:08.418699Z",
+  "draft_created_at": null,
+  "lead_time": 59.697,
+  "import_id": null,
+  "last_action": null,
+  "project": 6,
+  "updated_by": 4,
+  "parent_prediction": 4,
+  "parent_annotation": null,
+  "last_created_by": null
+}

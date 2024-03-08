@@ -1,0 +1,176 @@
+{
+  "id": 155,
+  "created_username": " lorena.quesada.ilmert@alumnos.upm.es, 15",
+  "created_ago": "1\u00a0hour, 50\u00a0minutes",
+  "completed_by": {
+    "id": 15,
+    "first_name": "",
+    "last_name": "",
+    "email": "lorena.quesada.ilmert@alumnos.upm.es"
+  },
+  "task": {
+    "id": 218,
+    "data": {
+      "video_url": "/data/local-files/?d=videos/Explosion048_x264.mp4"
+    },
+    "meta": {},
+    "created_at": "2024-01-05T10:43:44.817306Z",
+    "updated_at": "2024-02-12T18:38:19.409371Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 6,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 15,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_length": 15.300998,
+      "value": {
+        "start": 0.02270177744807122,
+        "end": 3.042038178041543,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "0VJeB",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 15.300998,
+      "value": {
+        "start": 0.02270177744807122,
+        "end": 3.042038178041543,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "0VJeB",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 15.300998,
+      "value": {
+        "start": 3.0647399554896144,
+        "end": 5.902462136498517,
+        "channel": 0,
+        "labels": [
+          "Class 1"
+        ]
+      },
+      "id": "TCtAK",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 15.300998,
+      "value": {
+        "start": 3.0647399554896144,
+        "end": 5.902462136498517,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "TCtAK",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 15.300998,
+      "value": {
+        "start": 5.834356804154303,
+        "end": 8.694780762611277,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "pXmnB",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 15.300998,
+      "value": {
+        "start": 5.834356804154303,
+        "end": 8.694780762611277,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "pXmnB",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 15.300998,
+      "value": {
+        "start": 8.694780762611277,
+        "end": 15.300998,
+        "channel": 0,
+        "labels": [
+          "Class 1"
+        ]
+      },
+      "id": "ENOB-",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 15.300998,
+      "value": {
+        "start": 8.694780762611277,
+        "end": 15.300998,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "ENOB-",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-02-12T16:47:54.569180Z",
+  "updated_at": "2024-02-12T18:38:19.505660Z",
+  "draft_created_at": "2024-02-12T16:44:47.619798Z",
+  "lead_time": 251.445,
+  "import_id": null,
+  "last_action": null,
+  "project": 1,
+  "updated_by": 16,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

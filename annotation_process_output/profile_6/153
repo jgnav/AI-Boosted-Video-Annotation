@@ -1,0 +1,176 @@
+{
+  "id": 153,
+  "created_username": " lorena.quesada.ilmert@alumnos.upm.es, 15",
+  "created_ago": "6\u00a0minutes",
+  "completed_by": {
+    "id": 15,
+    "first_name": "",
+    "last_name": "",
+    "email": "lorena.quesada.ilmert@alumnos.upm.es"
+  },
+  "task": {
+    "id": 216,
+    "data": {
+      "video_url": "/data/local-files/?d=videos/Burglary030_x264.mp4"
+    },
+    "meta": {},
+    "created_at": "2024-01-05T10:43:44.742559Z",
+    "updated_at": "2024-02-12T16:49:37.056541Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 4,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 15,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_length": 30,
+      "value": {
+        "start": 0.04451038575667656,
+        "end": 10.103857566765578,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "FJ4XZ",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 30,
+      "value": {
+        "start": 0.04451038575667656,
+        "end": 10.103857566765578,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "FJ4XZ",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 30,
+      "value": {
+        "start": 10.059347181008903,
+        "end": 20.29673590504451,
+        "channel": 0,
+        "labels": [
+          "Class 1"
+        ]
+      },
+      "id": "Nplrt",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 30,
+      "value": {
+        "start": 10.059347181008903,
+        "end": 20.29673590504451,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "Nplrt",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 30,
+      "value": {
+        "start": 25.59347181008902,
+        "end": 29.910979228486646,
+        "channel": 0,
+        "labels": [
+          "Class 1"
+        ]
+      },
+      "id": "iyUL_",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 30,
+      "value": {
+        "start": 25.59347181008902,
+        "end": 29.910979228486646,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "iyUL_",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_length": 30,
+      "value": {
+        "start": 20.296735905044507,
+        "end": 25.682492581602375,
+        "channel": 0,
+        "labels": [
+          "Class 2"
+        ]
+      },
+      "id": "IjIoQ",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "original_length": 30,
+      "value": {
+        "start": 20.296735905044507,
+        "end": 25.682492581602375,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "IjIoQ",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-02-12T16:42:48.194954Z",
+  "updated_at": "2024-02-12T16:49:37.154277Z",
+  "draft_created_at": "2024-02-12T16:37:52.225718Z",
+  "lead_time": 550.389,
+  "import_id": null,
+  "last_action": null,
+  "project": 1,
+  "updated_by": 16,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

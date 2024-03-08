@@ -1,0 +1,113 @@
+{
+  "id": 82,
+  "created_username": " amora@sigmacognition.ai, 10",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 10,
+    "first_name": "",
+    "last_name": "",
+    "email": "amora@sigmacognition.ai"
+  },
+  "task": {
+    "id": 441,
+    "data": {
+      "video_url": "/data/local-files/?d=videos/Arson049_x264.mp4",
+      "image_url": "/data/local-files/?d=images/Arson049_x264.png"
+    },
+    "meta": {},
+    "created_at": "2023-12-20T18:20:08.065148Z",
+    "updated_at": "2023-12-20T18:57:49.392890Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 1,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 6,
+    "updated_by": 2,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_length": 12.887007,
+      "value": {
+        "start": 0,
+        "end": 3.476580703448276,
+        "channel": 0,
+        "labels": [
+          "Class 1"
+        ]
+      },
+      "id": "1",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 12.887007,
+      "value": {
+        "start": 0,
+        "end": 3.476580703448276,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "1",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 12.887007,
+      "value": {
+        "start": 3.4568305011494256,
+        "end": 12.866666666666667,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "2",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 12.887007,
+      "value": {
+        "start": 3.4568305011494256,
+        "end": 12.866666666666667,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "2",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "prediction-changed"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2023-12-22T10:38:04.646139Z",
+  "updated_at": "2023-12-22T10:38:04.646152Z",
+  "draft_created_at": "2023-12-22T10:35:02.398700Z",
+  "lead_time": 268.558,
+  "import_id": null,
+  "last_action": null,
+  "project": 6,
+  "updated_by": 10,
+  "parent_prediction": 295,
+  "parent_annotation": null,
+  "last_created_by": null
+}

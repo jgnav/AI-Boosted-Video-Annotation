@@ -1,0 +1,113 @@
+{
+  "id": 74,
+  "created_username": " m.dllin@alumnos.upm.es, 10",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 10,
+    "first_name": "",
+    "last_name": "",
+    "email": "m.dllin@alumnos.upm.es"
+  },
+  "task": {
+    "id": 14,
+    "data": {
+      "video_url": "/data/local-files/?d=videos/Fighting033_x264.mp4",
+      "image_url": "/data/local-files/?d=images/Fighting033_x264.png"
+    },
+    "meta": {},
+    "created_at": "2024-01-04T10:56:48.738133Z",
+    "updated_at": "2024-01-04T10:56:48.754092Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 4,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_length": 36.886349,
+      "value": {
+        "start": 0,
+        "end": 21.333333333333332,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "1",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "original_length": 36.886349,
+      "value": {
+        "start": 0,
+        "end": 21.333333333333332,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "1",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "prediction"
+    },
+    {
+      "original_length": 36.886349,
+      "value": {
+        "start": 21.333333333333332,
+        "end": 36.833333333333336,
+        "channel": 0,
+        "labels": [
+          "Class 1"
+        ]
+      },
+      "id": "2",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "original_length": 36.886349,
+      "value": {
+        "start": 21.333333333333332,
+        "end": 36.833333333333336,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "2",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "prediction"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2024-01-24T18:47:37.858685Z",
+  "updated_at": "2024-01-24T18:47:37.858767Z",
+  "draft_created_at": null,
+  "lead_time": 255.504,
+  "import_id": null,
+  "last_action": null,
+  "project": 5,
+  "updated_by": 10,
+  "parent_prediction": 7,
+  "parent_annotation": null,
+  "last_created_by": null
+}

@@ -1,0 +1,177 @@
+{
+  "id": 78,
+  "created_username": " jgavilanes@sigma-ai.com, 9",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 9,
+    "first_name": "",
+    "last_name": "",
+    "email": "jgavilanes@sigma-ai.com"
+  },
+  "task": {
+    "id": 478,
+    "data": {
+      "video_url": "/data/local-files/?d=videos/Stealing029_x264.mp4",
+      "image_url": "/data/local-files/?d=images/Stealing029_x264.png"
+    },
+    "meta": {},
+    "created_at": "2023-12-20T18:20:39.793845Z",
+    "updated_at": "2023-12-20T18:20:39.798609Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 8,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 3,
+    "updated_by": 3,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_length": 13.56,
+      "value": {
+        "start": 0.018398914518317502,
+        "end": 1.529262777023971,
+        "channel": 0,
+        "labels": [
+          "Class 2"
+        ]
+      },
+      "id": "1",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 13.56,
+      "value": {
+        "start": 0.018398914518317502,
+        "end": 1.529262777023971,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "1",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 13.56,
+      "value": {
+        "start": 1.4935413839891454,
+        "end": 4.766666666666667,
+        "channel": 0,
+        "labels": [
+          "Class 1"
+        ]
+      },
+      "id": "3",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 13.56,
+      "value": {
+        "start": 1.4935413839891454,
+        "end": 4.766666666666667,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "3",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 13.56,
+      "value": {
+        "start": 4.766666666666667,
+        "end": 11.120985979194936,
+        "channel": 0,
+        "labels": [
+          "Class 3"
+        ]
+      },
+      "id": "4",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 13.56,
+      "value": {
+        "start": 4.766666666666667,
+        "end": 11.120985979194936,
+        "channel": 0,
+        "choices": [
+          "Abnormal Event"
+        ]
+      },
+      "id": "4",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 13.56,
+      "value": {
+        "start": 11.118398914518318,
+        "end": 13.551732247851652,
+        "channel": 0,
+        "labels": [
+          "Class 0"
+        ]
+      },
+      "id": "8",
+      "from_name": "Classes",
+      "to_name": "audio",
+      "type": "labels",
+      "origin": "prediction-changed"
+    },
+    {
+      "original_length": 13.56,
+      "value": {
+        "start": 11.118398914518318,
+        "end": 13.551732247851652,
+        "channel": 0,
+        "choices": [
+          "Normal Event"
+        ]
+      },
+      "id": "8",
+      "from_name": "Anomaly checkbox",
+      "to_name": "audio",
+      "type": "choices",
+      "origin": "prediction-changed"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2023-12-22T09:36:57.555826Z",
+  "updated_at": "2023-12-22T09:36:57.555840Z",
+  "draft_created_at": "2023-12-22T09:33:05.163857Z",
+  "lead_time": 320.95,
+  "import_id": null,
+  "last_action": null,
+  "project": 3,
+  "updated_by": 9,
+  "parent_prediction": 313,
+  "parent_annotation": null,
+  "last_created_by": null
+}
